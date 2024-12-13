@@ -46,10 +46,12 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+
+# Ignore large files
 *.zip
 *.hdr
-*.exe
 *.apk
+*.exe
 
 # Unity3D generated meta files
 *.pidb.meta
