@@ -1,2 +1,6 @@
 # NetworkScene
 NetworkTest
+Hello everyone, this project includie the network and hand grab interaction, so if you open this project and make this project run on two headsets, both two players should be able to use their real hands to do distance drag/grab. 
+I tried to add the eye gaze tracking but failed, so if anyone is available could you please try to add the gaze tracking interaction in the scene? Or you may just quickly read through the project and try the current 'NetworkScene' and tell me if this scene is available to add eye gaze tracking interaction, if this scene cannot add, I'll go back to the Aura scene and redo the network. I upload this because after I test this with the others I think this project's network works better. And if you think this scene is not able to ass any eye gaze tracking interaction, eye gaze sharing please leave a note.
+For this scene I used the meta building blocks, and I also added 'eye gaze' option from the building blocks to the scene, so you can see there is a 'Eye Gaze Left' and a 'Eye Gaze Right' in the LeftEyeAnchor & RightEyeAnchor (in Camera Rig), and there is a GameObject in the scene as well, which is the yellow ball. 
+And, if there is anything miss/lost in the scene or cannot run please tell me. Thanks!
